@@ -17,7 +17,7 @@ Restructured Text Documentation
 ------------------------------
 https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html
 
-Video
+Videos
 ------
 
 .. raw:: html
