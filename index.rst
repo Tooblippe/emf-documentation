@@ -1,4 +1,4 @@
-Welcome to Trade Advisory DocumentationPivot table review_MC3
+DEV VERSION
 ========================================
 In short, the TRADE-DSM Navigator™ evaluates and screens all worldwide country and product combinations, using four smart 'filters'. Drawing on some qualifying criteria, each filter sequentially eliminates less realistic or promising product-country combinations (or export opportunities) in the particular market being assessed (hereafter referred to as the 'home market'), and then categorises and prioritises the shortlisted realistic export opportunities (REOs) in different positions on a grid, known as the REO Map™.
 The TRADE-DSM Navigator™ is based in the QlikView business intelligence software interface. This document describes how to use and configure the navigator for identifying REOs. The main user interfaces are provided on different tabs/views in the QlikView environment. By using the different tabs, users can quickly and easily:
