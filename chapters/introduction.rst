@@ -1,13 +1,61 @@
-==============
-Introduction
-==============
+.. only:: AUSTRALIA
 
-Rising competition and sluggish growth at home are forcing more and more businesses to consider exporting or, if already active at an international level, to diversify into new products and/or markets.
-Most export strategies revolve around the issues of:
-•	Which regions/countries are worth pursuing and spending money on?
-•	How should the available product range be tailored so as to take advantage of the opportunities present in the market(s)?
-•	Which export opportunities should we focus our attention on, given the constraints of time, money, manpower and/or expertise?
-Achieving international success is rarely a simple process. International trade policymakers and practitioners alike are faced with a great deal of uncertainty, which makes strategic planning challenging. Both are preoccupied with how to allocate their resources wisely and how to design export marketing initiatives that stand the greatest chance of delivering long-term value. Ideally, such decisions should be based on fact-rich intelligence derived from academically rigorous and scientific research methods, but they should also reflect real-world pragmatism.
+    =============================
+    Australia - Introductions
+    =============================
+
+    <-- NOTE this space, and note ^ this empty line
+    Rising competition and sluggish growth at home are forcing more and more businesses to consider exporting or, if already active at an international level, to diversify into new products and/or markets.
+    Most export strategies revolve around the issues of:
+    •	Which regions/countries are worth pursuing and spending money on?
+    •	How should the available product range be tailored so as to take advantage of the opportunities present in the market(s)?
+    •	Which export opportunities should we focus our attention on, given the constraints of time, money, manpower and/or expertise?
+    Achieving international success is rarely a simple process. International trade policymakers and practitioners alike are faced with a great deal of uncertainty, which makes strategic planning challenging. Both are preoccupied with how to allocate their resources wisely and how to design export marketing initiatives that stand the greatest chance of delivering long-term value. Ideally, such decisions should be based on fact-rich intelligence derived from academically rigorous and scientific research methods, but they should also reflect real-world pragmatism.
+
+
+
+.. only:: SOUTHAFRICA
+
+    =============================
+    South Africa - Introductions
+    =============================
+
+    Rising competition and sluggish growth at home are forcing more and more businesses to consider exporting or, if already active at an international level, to diversify into new products and/or markets.
+    Most export strategies revolve around the issues of:
+    •	Which regions/countries are worth pursuing and spending money on?
+    •	How should the available product range be tailored so as to take advantage of the opportunities present in the market(s)?
+    •	Which export opportunities should we focus our attention on, given the constraints of time, money, manpower and/or expertise?
+    Achieving international success is rarely a simple process. International trade policymakers and practitioners alike are faced with a great deal of uncertainty, which makes strategic planning challenging. Both are preoccupied with how to allocate their resources wisely and how to design export marketing initiatives that stand the greatest chance of delivering long-term value. Ideally, such decisions should be based on fact-rich intelligence derived from academically rigorous and scientific research methods, but they should also reflect real-world pragmatism.
+
+
+.. only:: BOTSWANA
+
+    =============================
+    Botswana - Introductions
+    =============================
+
+    Rising competition and sluggish growth at home are forcing more and more businesses to consider exporting or, if already active at an international level, to diversify into new products and/or markets.
+    Most export strategies revolve around the issues of:
+    •	Which regions/countries are worth pursuing and spending money on?
+    •	How should the available product range be tailored so as to take advantage of the opportunities present in the market(s)?
+    •	Which export opportunities should we focus our attention on, given the constraints of time, money, manpower and/or expertise?
+    Achieving international success is rarely a simple process. International trade policymakers and practitioners alike are faced with a great deal of uncertainty, which makes strategic planning challenging. Both are preoccupied with how to allocate their resources wisely and how to design export marketing initiatives that stand the greatest chance of delivering long-term value. Ideally, such decisions should be based on fact-rich intelligence derived from academically rigorous and scientific research methods, but they should also reflect real-world pragmatism.
+
+
+.. only:: NEWZEALAND
+
+    =============================
+    NEWZEALAND - Introductions
+    =============================
+
+    Rising competition and sluggish growth at home are forcing more and more businesses to consider exporting or, if already active at an international level, to diversify into new products and/or markets.
+    Most export strategies revolve around the issues of:
+    •	Which regions/countries are worth pursuing and spending money on?
+    •	How should the available product range be tailored so as to take advantage of the opportunities present in the market(s)?
+    •	Which export opportunities should we focus our attention on, given the constraints of time, money, manpower and/or expertise?
+    Achieving international success is rarely a simple process. International trade policymakers and practitioners alike are faced with a great deal of uncertainty, which makes strategic planning challenging. Both are preoccupied with how to allocate their resources wisely and how to design export marketing initiatives that stand the greatest chance of delivering long-term value. Ideally, such decisions should be based on fact-rich intelligence derived from academically rigorous and scientific research methods, but they should also reflect real-world pragmatism.
+
+
 
 
 What are typical questions asked by those with an international portfolio?
@@ -36,3 +84,6 @@ What if data could be distilled into meaningful intelligence – at the click of
 •	per potential export market (e.g. the Netherlands)
 •	per potential export region (e.g. Africa or SADC)
 The methodology has application for active and aspiring exporters, as well as trade promotion officials operating at national and provincial level.
+
+
+
