@@ -14,7 +14,7 @@ The TRADE-DSM Navigator™ is based in the QlikView business intelligence softwa
 * Bullet
 
 Restructured Text Documentation
-------------------------------
+-------------------------------
 https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html
 
 Videos
