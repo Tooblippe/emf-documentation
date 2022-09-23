@@ -1,0 +1,9 @@
+/*@import '../sphinx_rtd_theme';  /* for Alabaster */
+
+@import 'theme.css';       /* for the Read the Docs theme */
+
+/*my1 {
+/*  text-align: right;
+/*}
+
+
