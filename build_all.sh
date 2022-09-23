@@ -1,3 +1,5 @@
+git pull
+
 cp _includefiles/client_default.txt _includefiles/default.txt
 cp images/Company_Logo_Default.png images/Company_Logo.png
 cp images/Screenshot_Default.png images/Company_Screenshot.png
