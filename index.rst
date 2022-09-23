@@ -1,33 +1,103 @@
-PRODUCTION VERSION
-========================================
-In short, the TRADE-DSM Navigator™ evaluates and screens all worldwide country and product combinations, using four smart 'filters'. Drawing on some qualifying criteria, each filter sequentially eliminates less realistic or promising product-country combinations (or export opportunities) in the particular market being assessed (hereafter referred to as the 'home market'), and then categorises and prioritises the shortlisted realistic export opportunities (REOs) in different positions on a grid, known as the REO Map™.
-The TRADE-DSM Navigator™ is based in the QlikView business intelligence software interface. This document describes how to use and configure the navigator for identifying REOs. The main user interfaces are provided on different tabs/views in the QlikView environment. By using the different tabs, users can quickly and easily:
+.. include:: _includefiles/default.txt
+.. ..include:: _includefiles/client_australia_TIQ.txt
 
-* Analyse current export performance: examine the performance and dynamics of a country's export markets for any product; identify the number and size of export markets and the concentration of exports; highlight countries where market share has increased.
-* Identify promising export markets: view the world's major importing countries for a specific product, with indicators illustrating the concentration and growth rate of imports in each market.
-* Assess the level of competition in the global market: competing countries, exporting the same product, are ranked in terms of the value of exports, and availability of additional indicators on growth and market share.
-* Assess the level of competition in a specific export market: view a country's competitors in any target market, with information on the export performance of each competitor, the number of supplying countries and their performance in the market.
-* Review opportunities for diversification in a particular market by comparing the demand for a set of similar or related products/services in the market under consideration.
-* Assess national trade performance: make an overall evaluation of national trade performance and identify sectors and products in terms of their potential for investment and trade promotion.
-* Identify existing and potential bilateral trade with any partner country or region: bilateral trade opportunities can be identified by comparing the actual bilateral trade, the partner countries' demand for a particular product in terms of imports and the global export capacity of the home market.
-* Export all the data in tables to Excel for further manipulation and/or analysis.
-* Bullet
+.. .. Code starts
 
-Restructured Text Documentation
--------------------------------
-https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html
+.. |TA_Logo| image:: images/Trade_Advisory.jpg
+   :width: 200
+   :alt: Trade Advisory
 
-Videos
-------
+.. |Company_Logo| image:: images/Company_Logo.png
+   :width: 200
+   :alt: Trade Advisory
+
+.. |Main_Screen| image:: images/Company_Screenshot.png
+   :scale: 50%
+   :alt: EMF Trade Advisory
+
+...
+============
+
+.. centered:: |TA_Logo|
 
 .. raw:: html
 
-    <iframe width="560" height="315" src="http://www.youtube.com/embed/D-9OxDXrfMA?rel=0" frameborder="0" allowfullscreen></iframe>
+   <h1 style="text-align: center;">EXPORT MARKET FINDER</h1>
+
+.. Next section use switches for custom text per client / market
+.. todo - used australia for test for default - will be changed to TA
+.. todo Add logos in images folder (AEXI, BITC, DALRRD, DTIC, Ethekwini, Mpumalanga, Infometrics, North West Province, TIKZN, WESGRO
+
+.. raw:: html
+
+   <h3 style="text-align: center;">Customised version for <a class="reference internal" href="_images/Company_Logo.png"><img alt="Client logo" src="_images/Company_Logo.png" style="width: 150px;" /></a></h3>
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :titlesonly:
+   :name: mastertoc
+   :caption: Getting started ...
 
-   chapters/introduction
+   chapters/EMF_Screen_Layout
+   chapters/EMF_Online_Intro
+   chapters/EMF_FAQs
+
+.. toctree::
+   :titlesonly:
+   :name: methodtoc
+   :caption: I want to know more about ...
+
+   chapters/EMF_Method_Overview.rst
+   chapters/EMF_Filters_Overview
+   chapters/EMF_Case_Studies
+
+.. toctree::
+   :titlesonly:
+   :name: advancedtoc
+   :caption: Strategy formulation topics ...
+
+   chapters/EMF_Export_Promotion_Strategies
+   chapters/EMF_Export_Strategy_Formulation.rst
+
+.. toctree::
+   :titlesonly:
+   :name: referencestoc
+   :caption: References
+
    chapters/abbreviations
+   chapters/Reading_List
+
+.. Next section = Standard
+
+====
+
+.. raw:: html
+
+   <h3>What is Export Market Finder?</h3>
+
+Trade Advisory's **Export Market Finder** is an export decision-making application that assist with the identification of products and markets with realistic shorter-term ‘untapped’ export potential as well as opportunities for export market diversification.
+
+With data for >180 markets (countries) and >5,000 products (tariff codes), it provides detailed and practical information for trade advisers and policymakers around the world.
+
+.. Next section use switches for custom text per client / market
+
+The tool operates across a number of functions but the new online version makes it simpler to assist |TargetClient|.
+
+.. centered:: |Main_Screen|
+
+.. Next section = Standard
+
+**Export promotion, development and investment questions can be informed from:**
+
+  * a product perspective
+        \- to assess an opportunity for a product to a market
+
+        \- to assess opportunities for a group of products (for example tailored to a sector/ industry) to a market and/ or
+
+        \- to assess an opportunity for a product/ group of products to multiple markets.
+
+  * a market perspective
+        \- to assess a market in terms of a potential basket of realistic opportunities (products) for a selected market.
+
+        \- to assess across a group (region, trade bloc) of markets a potential basket of realistic opportunities (products).
+
