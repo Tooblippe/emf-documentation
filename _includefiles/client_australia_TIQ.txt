@@ -1,0 +1,5 @@
+.. Comment - Australia TIQ client definitions
+
+.. |TargetClient| replace:: **Trade and Investment Queensland's officials**
+
+
