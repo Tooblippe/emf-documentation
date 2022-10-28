@@ -1,7 +1,6 @@
-.. only:: default
-
-    Each filter explained in detail
-    ===================================
+===================================
+Each filter explained in detail
+===================================
 
     Talk bout the screen + image 1
 

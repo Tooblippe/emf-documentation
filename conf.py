@@ -98,7 +98,7 @@ html_sidebars = {"**": ["globaltoc.html"]}
 
 #import guzzle_sphinx_theme
 
-#import sphinx_rtd_theme
+import sphinx_rtd_theme
 
 #html_theme_path = guzzle_sphinx_theme.html_theme_path()
 #html_theme = "guzzle_sphinx_theme"

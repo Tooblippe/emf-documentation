@@ -1,7 +1,6 @@
-.. only:: default
-
-    Export promotion strategies for TIPAs
-    ========================================
+========================================
+Export promotion strategies for TIPAs
+========================================
 
     Talk bout the screen + image 1
 

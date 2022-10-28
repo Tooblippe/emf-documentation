@@ -1,0 +1,5 @@
+.. Comment - DTIC client definitions
+
+.. |TargetClient| replace:: **Department of Trade, Industry and Competition's officials**
+
+

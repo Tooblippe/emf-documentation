@@ -1,0 +1,5 @@
+.. Comment - WESGRO client definitions
+
+.. |TargetClient| replace:: **WESGRO's professionals**
+
+

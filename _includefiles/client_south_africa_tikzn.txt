@@ -1,0 +1,5 @@
+.. Comment - TIKZN client definitions
+
+.. |TargetClient| replace:: **Trade and Investment Kwa-Zulu Natal's professionals**
+
+

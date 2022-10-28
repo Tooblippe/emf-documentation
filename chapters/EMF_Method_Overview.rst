@@ -1,7 +1,6 @@
-.. only:: default
-
-    The underlying method
-    ===================================
+===================================
+The underlying method
+===================================
 
     Talk bout the screen + image 1
 

@@ -1,0 +1,5 @@
+.. Comment - DALRRD client definitions
+
+.. |TargetClient| replace:: **Department of Agriculture, Land Reform and Rural Development's officials**
+
+

@@ -1,5 +1,6 @@
 .. include:: _includefiles/default.txt
 .. ..include:: _includefiles/client_australia_TIQ.txt
+.. ..:width: 200
 
 .. .. Code starts
 
@@ -8,39 +9,44 @@
    :alt: Trade Advisory
 
 .. |Company_Logo| image:: images/Company_Logo.png
-   :width: 200
+   :scale: 80%
    :alt: Trade Advisory
 
 .. |Main_Screen| image:: images/Company_Screenshot.png
-   :scale: 50%
+   :width: 100%
    :alt: EMF Trade Advisory
 
-...
+EMF
 ============
+
+.. note::
+   Please note that this knowledge resource is still in development and will be expanded on an ongoing basis.
+   If there is a particular aspect that you require assistence with and it is not populate yet, please contact us to prioritise.
+   Your understanding is appreciated.
 
 .. centered:: |TA_Logo|
 
 .. raw:: html
 
-   <h1 style="text-align: center;">EXPORT MARKET FINDER</h1>
+   <h1 style="text-align: center;">EXPORT MARKET FINDER (EMF)</h1>
 
-.. Next section use switches for custom text per client / market
-.. todo - used australia for test for default - will be changed to TA
-.. todo Add logos in images folder (AEXI, BITC, DALRRD, DTIC, Ethekwini, Mpumalanga, Infometrics, North West Province, TIKZN, WESGRO
+.. ..Next section use switches for custom text per client / market
+.. ..todo - used australia for test for default - will be changed to TA
+.. ..todo Add logos in images folder (AEXI, BITC, DALRRD, DTIC, Ethekwini, Mpumalanga, Infometrics, North West Province, TIKZN, WESGRO
+.. ..<h3 style="text-align: center;">Customised version for <a class="reference internal" href="_images/Company_Logo.png"><img alt="Client logo" src="_images/Company_Logo.png" style="width: 70%;" /></a></h3>
 
 .. raw:: html
 
-   <h3 style="text-align: center;">Customised version for <a class="reference internal" href="_images/Company_Logo.png"><img alt="Client logo" src="_images/Company_Logo.png" style="width: 150px;" /></a></h3>
-
+   <h3 style="text-align: center;">Customised version for <a class="reference internal"><img alt="Client logo" src="_images/Company_Logo.png" style="width: 70%;" /></a></h3>
 
 .. toctree::
    :titlesonly:
    :name: mastertoc
    :caption: Getting started ...
 
-   chapters/EMF_Screen_Layout
-   chapters/EMF_Online_Intro
-   chapters/EMF_FAQs
+   chapters/EMF_Screen_Layout.rst
+   chapters/EMF_Online_Intro.rst
+   chapters/EMF_FAQs.rst
 
 .. toctree::
    :titlesonly:
@@ -48,15 +54,15 @@
    :caption: I want to know more about ...
 
    chapters/EMF_Method_Overview.rst
-   chapters/EMF_Filters_Overview
-   chapters/EMF_Case_Studies
+   chapters/EMF_Filters_Overview.rst
+   chapters/EMF_Case_Studies.rst
 
 .. toctree::
    :titlesonly:
    :name: advancedtoc
    :caption: Strategy formulation topics ...
 
-   chapters/EMF_Export_Promotion_Strategies
+   chapters/EMF_Export_Promotion_Strategies.rst
    chapters/EMF_Export_Strategy_Formulation.rst
 
 .. toctree::
@@ -67,7 +73,7 @@
    chapters/abbreviations
    chapters/Reading_List
 
-.. Next section = Standard
+.. ..Next section = Standard
 
 ====
 
@@ -85,7 +91,7 @@ The tool operates across a number of functions but the new online version makes 
 
 .. centered:: |Main_Screen|
 
-.. Next section = Standard
+.. ..Next section = Standard
 
 **Export promotion, development and investment questions can be informed from:**
 

@@ -1,0 +1,5 @@
+.. Comment - Mpumalanga Dept. of Economic Development & Tourism client definitions
+
+.. |TargetClient| replace:: **Mpumalanga Dept. of Economic Development & Tourism's officials**
+
+

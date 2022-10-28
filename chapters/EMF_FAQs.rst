@@ -1,7 +1,6 @@
-.. only:: default
-
-    Frequently asked questions (FAQs)
-    ===================================
+===================================
+Frequently asked questions (FAQs)
+===================================
 
     Talk bout the screen + image 1
 

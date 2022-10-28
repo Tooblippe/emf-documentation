@@ -1,0 +1,5 @@
+.. Comment - BITC client definitions
+
+.. |TargetClient| replace:: **Botswana Investment and Trade Centre's professionals**
+
+

@@ -1,15 +1,28 @@
 @cls
+@ECHO OFF
+@ECHO This batch processes building help documentation for all listed clients
 
-copy _includefiles\client_default.txt _includefiles\default.txt
-copy images\Company_Logo_Default.png images\Company_Logo.png
-copy images\Screenshot_Default.png images\Company_Screenshot.png
-sphinx-build -b html -t default . build/default
+CALL build_single.bat Default
 
-copy _includefiles\client_australia_TIQ.txt _includefiles\default.txt
-copy images\Company_Logo_Australia_TIQ.png images\Company_Logo.png
-copy images\Screenshot_Australia_TIQ.png images\Company_Screenshot.png
-sphinx-build -b html -t australia . build/australia
+CALL build_single.bat australia_TIQ
 
-@REM sphinx-build -b html -t south_africa . build/south_africa
-@REM sphinx-build -b html -t botswana . build/botswana
-@REM sphinx-build -b html -t new_zealand . build/new_zealand
+CALL build_single.bat botswana_bitc
+
+CALL build_single.bat netherlands_aexi
+
+CALL build_single.bat new_zealand_infometrics
+
+CALL build_single.bat south_africa_dalrrd
+
+CALL build_single.bat south_africa_dtic
+
+CALL build_single.bat south_africa_ethekwini
+
+CALL build_single.bat south_africa_mpm_dedt
+
+CALL build_single.bat south_africa_rsa_test
+
+CALL build_single.bat south_africa_tikzn
+
+CALL build_single.bat south_africa_wesgro
+

@@ -1,0 +1,5 @@
+.. Comment - Trade Advisory client definitions
+
+.. |TargetClient| replace:: **Trade Advisory's professionals**
+
+

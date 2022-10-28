@@ -1,7 +1,6 @@
-.. only:: default
-
-    Strategy development using the REO Matrix
-    =========================================
+=========================================
+Strategy development using the REO Matrix
+=========================================
 
     Talk bout the screen + image 1
 
