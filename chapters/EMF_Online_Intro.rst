@@ -1,71 +1,152 @@
-===================================
-How to use EMF online
-===================================
-\Rising competition and sluggish growth at home are forcing more and more businesses to consider exporting or,
-if already active at an international level, to diversify into new products and/or markets.
+.. |location_NWU_Trade| raw:: html
 
-Most export strategies revolve around the issues of:
- \•	Which regions/countries are worth pursuing and spending money on?
+   <a href="https://commerce.nwu.ac.za/TRADE" target="_blank">TRADE</a>
 
- \•	How should the available product range be tailored so as to take advantage of the opportunities present in the market(s)?
+.. |Start_Sceen| image:: ../images/Example_Start_Screen.png
+   :width: 100%
+   :alt: EMF Clean start-up screen
 
- \•	Which export opportunities should we focus our attention on, given the constraints of time, money, manpower and/or expertise?
+.. |icon_Bin| image:: ../images/icons_Bin.png
+   :width: 5%
+   :alt: EMF Reset Bin icon
 
-Achieving international success is rarely a simple process. International trade policymakers and practitioners alike are faced with a great deal of uncertainty, which makes strategic planning challenging. Both are preoccupied with how to allocate their resources wisely and how to design export marketing initiatives that stand the greatest chance of delivering long-term value. Ideally, such decisions should be based on fact-rich intelligence derived from academically rigorous and scientific research methods, but they should also reflect real-world pragmatism.
+.. |Example_1P1C| image:: ../images/Example_1P1C.png
+   :width: 100%
+   :alt: EMF Main Example 1 Product x 1 Market
 
-The Export Market Finder (EMF) platform has been developed to assist trade and investment promotion professionals and government officials,
-policy makers and analysts to quickly and effectively provide answers regarding realistic export opportunities (a product x market combination)
-to stakeholders in a highly structured, scientifically based and repeatable framework.
+.. |icon_Default_Filters| image:: ../images/icons_Default_Filters.png
+   :width: 5%
+   :alt: EMF Default filters + icon
 
-What are typical example questions asked by those with an international portfolio?
-``````````````````````````````````````````````````````````````````````````````````
- \•	My client wants to know which markets in Africa hold the most realistic opportunities for motor vehicle tyre exports. How should I go about sourcing such information?
+.. |Example_Filters_Apply| image:: ../images/Example_Filters_Apply.png
+   :width: 70%
+   :alt: EMF Example Default filters apply
 
- \•	Our CEO is visiting India next month. How should he structure his visits to government and private concerns so that he comes away with an understanding of the most important industries and demand patterns in the country?
-
- \•	Our company wants to expand its existing product range and diversify into new market regions. Which products and markets would be realistic candidates for in-depth market analysis?
-
- \•	Our department needs to coordinate an international trade mission aimed at both existing and potential exporters in our country. Whom should we approach and what product categories should we focus on?
-
- \•	We wish to optimise our company’s operations in various export markets. What are the key factors to consider when deciding which new offices to open and which of the current ones to overhaul?
+.. |Example_1PMC| image:: ../images/Example_1PMC.png
+   :width: 100%
+   :alt: EMF Example filters 1 Product Multi Country
 
 
-Why is it difficult to choose viable export markets?
-----------------------------------------------------
-The complexity and ever-changing nature of the international trade environment have given rise to multiple research reports,
-analyses and commentaries, and it is easy to feel overwhelmed in the face of such ‘information overload’.
-How is it possible, many people ask, to assess all the data and information on offer in order to compare markets in terms of:
+.. |Example_MP1C| image:: ../images/Example_MP1C.png
+   :width: 100%
+   :alt: EMF Example filters Multiple Products Single Country
 
- \•	country risk,
 
- \•	logistics costs,
 
- \• trade barriers, and
 
- \•	size and growth potential?
+The basics - how to use EMF online
+**********************************
 
-Few businesses have the time or resources to devote to comprehensive market studies.
-Not surprisingly, market selection is often a hit-or-miss affair, with the resulting export returns being disappointing.
+The **Export Market Finder (EMF)** platform has specifically been developed to assist trade and investment promotion professionals and government officials,
+policy makers and analysts to quickly and effectively provide answers regarding realistic export opportunities.
 
-What if data could be distilled into meaningful intelligence?
--------------------------------------------------------------
-TRADE, a specialist research entity at the North-West University in South Africa,
-is helping organisations to streamline their market selection decisions and focus their export efforts.
-Using a scientifically sound methodology that systematically scans and screens international trade and market data,
-TRADE in collaboration with TRADE Research Advisory (PTY) , has developed the Export Market Finder
-(based on the TRADE-DSM® methodology developed by the North-West University, South Africa),
-a tool designed to identify pre-qualified, realistic export opportunities:
+.. note::
+   A realistic export opportunity consists at the minimum of a single product (HS6 tariff line code) x market (country) combination.
+   The evaluation and charcterisation of such a realistic export opportunity is based on a highly structured,
+   scientifically based and repeatable framework referred to as the TRADE-DSM® methodology.
 
-What if data could be distilled into meaningful intelligence – at the click of a button? Introducing the TRADE-DSM Navigator™
- \•	per HS-6 product level (or other classification system, e.g. SIC)
+The TRADE-DSM® methodology (Decision Support Model) was developed in association with the TRADE research focus area and is a registered trademark of |location_NWU_Trade|, North-West University, South Africa.
 
- \•	per individual product sector
+See :ref:`RST Reading list` for some research papers and sources for the underlying methodology.
 
- \•	per industry sector (e.g. agro-industry)
+**EMF was specifically designed to - productively - answer three basic questions**
 
- \•	per potential export market (e.g. the Netherlands)
+There are three (3) fundamental types of focus questions that forms the basis of any realistic export market potential analysis
+- more complex questions and analysis can be constructed on top of these. These are:
 
- \•	per potential export region (e.g. Africa or SADC)
+•	:ref:`RST 1P1C` - the most basic question - what can I learn about the characteristics of a specific product (HS6 tariff line code) to a specific market?
 
-The methodology has application for active and aspiring exporters,
-as well as trade promotion officials operating at national and sub-national (state, provincial, metropolitan or city) level.
+\
+
+•	:ref:`RST 1PMC` - which markets hold the most realistic 'untapped' potential for a specific product (HS6 tariff line code)?
+
+\
+
+•	:ref:`RST MP1C` which products (HS6 tariff line codes) are best evaluated for the most realistic 'untapped' potential for a specific selected target market?
+
+Various variants of these basic questions can be constructed to answer further more strategic questions, or to focus on
+e.g. specific sectors, master plans, trade blocs, regional value chains and other commercial and policy related analysis.
+
+See section on strategy formulation topics for more detail.
+
+**Quick overview of answering the three basic questions in the interface**
+
+.. _RST 1P1C:
+
+Single Product x Single Market focus
+------------------------------------
+
+For illustrative purposes we consider the export of apples (**HS080810-Fruit, edible: apples, fresh**) from Australia
+to Vietnam.
+
+In this example, since we have a pre-determined product (**apples**) and pre-determined potential target market (**Vietnam**)
+to evaluate, there is **no need to apply any filters** in the EMF online interface.
+
+|icon_Bin| **Step 1** - Ensure that no filters or other selections are currently active by clicking on the 'Bin' icon.
+
+|Start_Sceen|
+
+**Step 2** - Select the product and market as indicated.
+
+|Example_1P1C|
+
+.. ..TODO MC - need to add link to main method here later
+
+More detail on the interpretation of outcomes for a particular product and market is provided in the method and interpretation section.
+
+.. _RST 1PMC:
+
+Single Product x Multiple Markets focus
+---------------------------------------
+
+For illustrative purposes we apply the *default* set of short-term export promotion filters for Australia.
+We then select a particular product (**HS020230-Meat: of bovine animals, boneless cuts, frozen**), and view the resulting outcomes.
+
+|icon_Bin| **Step 1** - Ensure that no filters or other selections are currently active by clicking on the '**Bin**' icon.
+
+|Start_Sceen|
+
+|icon_Default_Filters| **Step 2** - Select the '**load preset filters icon**'.
+
+|Example_Filters_Apply|
+
+**Step 3** - Select a particular product of interest that remains in the current filtered result set as
+determined by the current active filter combinations.
+
+As an illustrative example we select frozen beef (**HS020230-Meat: of bovine animals, boneless cuts, frozen**),
+for which in this example 24 markets in total 'pass' the applied set of filters.
+
+|Example_1PMC|
+
+.. ..TODO MC - need to add link to main method here later
+
+More detail on the interpretation of outcomes for a particular product and market is provided in the method and interpretation section.
+
+.. _RST MP1C:
+
+Single Market x Multiple Products focus
+---------------------------------------
+
+For illustrative purposes we apply the *default* set of short-term export promotion filters for Australia.
+We then investigate a particular target market of interest, and view the resulting outcomes of the basket of
+products that meet the selected set of *filters*' requirements. In this instance therefore the basket will contain
+those products that are evaluated to be relatively 'mature' and export ready compared to the rest of the world.
+
+|icon_Bin| **Step 1** - Ensure that no filters or other selections are currently active by clicking on the '**Bin**' icon.
+
+|Start_Sceen|
+
+|icon_Default_Filters| **Step 2** - Select the '**load preset filters icon**'.
+
+|Example_Filters_Apply|
+
+**Step 3** - Select a particular target market of interest that remains in the current filtered result set as
+determined by the current active filter combinations.
+
+As an illustrative example we select **Vietnam**, for which in this example 46 products in total 'pass' the applied set of filters.
+
+|Example_MP1C|
+
+.. ..TODO MC - need to add link to main method here later
+
+More detail on the interpretation of outcomes for a particular product and market is provided in the method and interpretation section.

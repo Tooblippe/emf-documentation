@@ -1,5 +1,10 @@
-.. Comment - Australia TIQ client definitions
+.. Comment - WESGRO client definitions
 
-.. |TargetClient| replace:: **Trade and Investment Queensland's officials**
+.. |TargetClient| replace:: **WESGRO's professionals**
 
+.. |Institution_Name| replace:: WEGSRO
 
+.. |Company_Logo| image:: images/Company_Logo.png
+   :scale: 80%
+   :alt: |Institution_Name|
+   :target: https://www.wesgro.co.za

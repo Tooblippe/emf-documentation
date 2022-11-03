@@ -2,4 +2,10 @@
 
 .. |TargetClient| replace:: **Botswana Investment and Trade Centre's professionals**
 
+.. |Institution_Name| replace:: Botswana Investment and Trade Centre
+
+.. |Company_Logo| image:: images/Company_Logo.png
+   :scale: 80%
+   :alt: |Institution_Name|
+   :target: https://www.gobotswana.com/
 

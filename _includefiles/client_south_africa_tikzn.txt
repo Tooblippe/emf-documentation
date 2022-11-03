@@ -2,4 +2,11 @@
 
 .. |TargetClient| replace:: **Trade and Investment Kwa-Zulu Natal's professionals**
 
+.. |TargetClient| replace:: **Trade and Investment Kwa-Zulu Natal's officials**
 
+.. |Institution_Name| replace:: Trade and Investment Kwa-Zulu Natal
+
+.. |Company_Logo| image:: images/Company_Logo.png
+   :scale: 80%
+   :alt: |Institution_Name|
+   :target: https://www.tikzn.co.za

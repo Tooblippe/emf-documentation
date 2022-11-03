@@ -3,3 +3,10 @@
 .. |TargetClient| replace:: **AEXI's professionals**
 
 
+.. |Institution_Name| replace:: AEXI Netherlands
+
+.. |Company_Logo| image:: images/Company_Logo.png
+   :scale: 80%
+   :alt: |Institution_Name|
+   :target: https://www.aexi.nl/
+

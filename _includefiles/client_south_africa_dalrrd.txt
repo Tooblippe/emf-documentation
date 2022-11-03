@@ -2,4 +2,10 @@
 
 .. |TargetClient| replace:: **Department of Agriculture, Land Reform and Rural Development's officials**
 
+.. |Institution_Name| replace:: Department of Agriculture, Land Reform and Rural Development
+
+.. |Company_Logo| image:: images/Company_Logo.png
+   :scale: 80%
+   :alt: |Institution_Name|
+   :target: https://www.dalrrd.gov.za
 

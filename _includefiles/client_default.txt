@@ -2,6 +2,15 @@
 
 .. |TargetClient| replace:: **Your Organisation's officials**
 
+.. |Institution_Name| replace:: Client organisation name
+
+.. |Company_Logo| image:: images/Company_Logo.png
+   :scale: 80%
+   :alt: |Institution_Name|
+   :target: https://www.google.com/
+
+
+
 
 
 

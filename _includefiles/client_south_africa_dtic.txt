@@ -2,4 +2,10 @@
 
 .. |TargetClient| replace:: **Department of Trade, Industry and Competition's officials**
 
+.. |Institution_Name| replace:: Department of Trade, Industry and Competition
+
+.. |Company_Logo| image:: images/Company_Logo.png
+   :scale: 80%
+   :alt: |Institution_Name|
+   :target: http://www.thedtic.gov.za/
 

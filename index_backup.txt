@@ -1,0 +1,132 @@
+.. include:: _includefiles/default.txt
+.. ..include:: _includefiles/client_australia_TIQ.txt
+.. ..:width: 200
+
+.. .. Code starts
+
+.. |TA_Logo| image:: images/Trade_Advisory.jpg
+   :width: 200
+   :alt: Trade Advisory
+
+.. |Company_Logo| image:: images/Company_Logo.png
+   :scale: 80%
+   :alt: Trade Advisory
+
+.. |Main_Screen| image:: images/Company_Screenshot.png
+   :width: 100%
+   :alt: EMF Trade Advisory
+
+
+Export Market Finder
+####################
+
+.. note::
+   Please note that this knowledge resource is still in development and will be expanded on an ongoing basis.
+   If there is a particular aspect that you require assistance with and it is not populate yet, please contact us to prioritise.
+   Your understanding is appreciated.
+
+.. centered:: |TA_Logo|
+
+.. raw:: html
+
+   <h1 style="text-align: center;">EXPORT MARKET FINDER (EMF)</h1>
+
+.. ..Next section use switches for custom text per client / market
+
+.. raw:: html
+
+   <h3 style="text-align: center;">Customised version for <a class="reference internal"><img alt="Client logo" src="_images/Company_Logo.png" style="width: 70%;" /></a></h3>
+
+
+.. ..Next section = Standard
+
+
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+   :name: mastertoc
+   :caption: Getting started ...
+
+   chapters/EMF_Screen_Layout.rst
+   chapters/EMF_Online_Intro.rst
+   chapters/EMF_FAQs.rst
+
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+   :name: methodtoc
+   :caption: I want to know more about ...
+
+   chapters/EMF_Method_Overview.rst
+   chapters/EMF_Filters_Overview.rst
+   chapters/EMF_Case_Studies.rst
+
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+   :name: advancedtoc
+   :caption: Strategy formulation topics ...
+
+   chapters/EMF_Export_Promotion_Strategies.rst
+   chapters/EMF_Export_Strategy_Formulation.rst
+
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+   :name: referencestoc
+   :caption: References
+
+   chapters/abbreviations
+   chapters/Reading_List
+
+.. ..Next section = Standard
+
+
+.. raw:: html
+
+   <h3>What is Export Market Finder?</h3>
+
+.. ..Next section = Standard
+
+Trade Advisory's **Export Market Finder** is an export decision-making application that assists with the identification of products and markets with realistic shorter-term ‘untapped’ export potential as well as opportunities for export market diversification.
+
+With data for >180 markets (countries) and >5,000 products (tariff codes, defined by the `World Customs Organisation <http://www.wcoomd.org>`_), it provides detailed and practical information for trade professionals, officials, advisors and policymakers around the world.
+
+.. Next section use switches for custom text per client / market
+
+The tool operates across a number of different typical trade and promotion functions but the new online version makes it simpler to assist |TargetClient| with various areas of focus.
+
+.. centered:: |Main_Screen|
+
+.. ..Next section = Standard
+
+**Export promotion, development and investment questions can be informed from:**
+
+  * a product perspective
+    \- to assess an opportunity for a product to a market
+
+    \- to assess opportunities for a group of products (for example tailored to a sector/ industry) to a market and/ or
+
+    \- to assess an opportunity for a product/ group of products to multiple markets.
+
+  * a market perspective
+    \- to assess a market in terms of a potential basket of realistic opportunities (products) for a selected market.
+
+    \- to assess across a group (region, trade bloc) of markets a potential basket of realistic opportunities (products).
+
+.. ..Next section = Standard
+
+
+What are typical example questions asked by those with an international portfolio?
+==================================================================================
+
+ \•	My client wants to know which markets in Africa hold the most realistic opportunities for motor vehicle tyre exports. How should I go about sourcing such information?
+
+ \•	Our CEO is visiting India next month. How should he/she structure visits to government and private concerns so that he/she comes away with an understanding of the most important industries and demand patterns in the country?
+
+ \•	Our company wants to expand its existing product range and diversify into new market regions. Which products and markets would be realistic candidates for in-depth market analysis?
+
+ \•	Our department needs to coordinate an international trade mission aimed at both existing and potential exporters in our country. Whom should we approach and what product categories should we focus on?
+
+ \•	We wish to optimise our company’s operations in various export markets. What are the key factors to consider when deciding which new offices to open and which of the current ones to overhaul?
+

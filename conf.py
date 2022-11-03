@@ -13,7 +13,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "EMF"
+project = "Export Market Finder"
 copyright = "2022, Trade Research Advisory (Pty) Ltd"
 author = "Trade Research Advisory"
 
@@ -33,7 +33,7 @@ release = ""
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ["sphinx.ext.todo", "sphinx.ext.githubpages"]
+extensions = ["sphinx.ext.todo", "sphinx.ext.githubpages", "sphinx.ext.autosectionlabel"]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
@@ -113,3 +113,4 @@ html_theme = "sphinx_rtd_theme"
 extensions.append("sphinx_rtd_theme")
 
 #html_style = 'css/custom.css'
+

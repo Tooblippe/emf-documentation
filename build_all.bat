@@ -4,13 +4,13 @@
 
 CALL build_single.bat Default
 
-CALL build_single.bat australia_TIQ
+@REM CALL build_single.bat australia_TIQ
+
+@REM CALL build_single.bat new_zealand_infometrics
 
 CALL build_single.bat botswana_bitc
 
 CALL build_single.bat netherlands_aexi
-
-CALL build_single.bat new_zealand_infometrics
 
 CALL build_single.bat south_africa_dalrrd
 

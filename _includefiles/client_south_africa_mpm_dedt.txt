@@ -2,4 +2,9 @@
 
 .. |TargetClient| replace:: **Mpumalanga Dept. of Economic Development & Tourism's officials**
 
+.. |Institution_Name| replace:: Mpumalanga Dept. of Economic Development and Tourism
 
+.. |Company_Logo| image:: images/Company_Logo.png
+   :scale: 80%
+   :alt: |Institution_Name|
+   :target: http://www.dedtmpumalanga.gov.za
